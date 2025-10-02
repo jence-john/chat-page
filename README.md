@@ -25,4 +25,4 @@ This project demonstrates **modern UI design, reusable components, and a scrolla
 ## **Live Demo**
 
 You can access the live demo of this Mail UI project here:  
-(chat-page-ten.vercel.app)  Feel free to explore the messages, search functionality, and UI layout!  
+(https://chat-page-ten.vercel.app/)  Feel free to explore the messages, search functionality, and UI layout!  
