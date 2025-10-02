@@ -15,7 +15,7 @@ This project demonstrates **modern UI design, reusable components, and a scrolla
 
 ---
 
-## **🛠️ Tech Stack**
+## ** Tech Stack**
 
 - **Frontend:** React.js, HTML5, CSS3  
 - **Tools:** npm, Git, VS Code,Vercel
