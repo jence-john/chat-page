@@ -1,6 +1,6 @@
-# Mail UI React
+# Mail  React
 
-A React-based **Mail/Chat UI** project created for learning and showcasing purposes.  
+A React-based **Mail/Chat** project created for learning and showcasing purposes.  
 This project demonstrates **modern UI design, reusable components, and a scrollable message interface** similar to Gmail or WhatsApp.
 
 ---
