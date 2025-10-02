@@ -1,0 +1,11 @@
+body{
+   background-color: antiquewhite; 
+   margin: 50px;
+}
+#root{
+    border: 20px;
+    background-color: rgb(12, 157, 109);
+    border-radius: 10px;
+    margin: 20px;
+
+}
